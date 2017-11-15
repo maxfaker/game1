@@ -1,0 +1,6 @@
+void main()
+{
+printf("s%");
+ return 0;
+
+}
